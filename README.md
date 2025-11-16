@@ -1,4 +1,4 @@
-# Exploratory Data Analysis — AIML Internship Task‑2 (Elevate Labs)
+# Exploratory Data Analysis
 
 ## 📌 Overview
 This repository contains **Task‑2 of the AIML Internship at Elevate Labs**, which focuses on performing **Exploratory Data Analysis (EDA)** on the cleaned Titanic dataset generated from **Task‑1**. The goal of this task is to understand patterns, correlations, trends, and survival behaviour from the dataset using statistical summaries and visualizations.
@@ -23,13 +23,13 @@ Task‑2
 │  README.md
 │  titanic_task2_eda.py
 │
-└── EDA_Output
+└── Output
        ├── histograms
        ├── boxplots
        ├── heatmap
        └── bar_charts
 ```
-All generated visual outputs are stored inside the **EDA_Output** folder.
+All generated visual outputs are stored inside the **Output** folder.
 
 ---
 
@@ -56,7 +56,7 @@ Execute the file from the Task‑2 directory:
 python titanic_task2_eda.py
 ```
 After execution:
-- All plots will be saved in **EDA_Output**
+- All plots will be saved in **Output**
 - 6–10 analytical insights will be printed in the terminal
 
 ---
