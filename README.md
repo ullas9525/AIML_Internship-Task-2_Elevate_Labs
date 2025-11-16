@@ -22,7 +22,6 @@ The EDA process includes:
 Task‑2
 │  README.md
 │  titanic_task2_eda.py
-│
 └── Output
        ├── histograms
        ├── boxplots
